@@ -124,7 +124,7 @@ const Dashboard = () => {
           )}
 
           <Button type="primary" htmlType="submit">
-            Submit
+            Get Data
           </Button>
         </Form>
       )}
