@@ -1,1 +1,0 @@
-console.log("This file was updated in the test2 branch");
